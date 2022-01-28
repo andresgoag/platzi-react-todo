@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/platzi-react-todo/static/css/main.b83c9205.css",
-    "main.js": "/platzi-react-todo/static/js/main.a0c435e4.js",
+    "main.css": "/platzi-react-todo/static/css/main.086ed929.css",
+    "main.js": "/platzi-react-todo/static/js/main.18076b6c.js",
     "index.html": "/platzi-react-todo/index.html",
-    "main.b83c9205.css.map": "/platzi-react-todo/static/css/main.b83c9205.css.map",
-    "main.a0c435e4.js.map": "/platzi-react-todo/static/js/main.a0c435e4.js.map"
+    "static/media/trash.svg": "/platzi-react-todo/static/media/trash.43abd16f54731d4913dce221c9e37631.svg",
+    "static/media/check.svg": "/platzi-react-todo/static/media/check.1380d44f18913e79a375738e8ba0b3f6.svg",
+    "main.086ed929.css.map": "/platzi-react-todo/static/css/main.086ed929.css.map",
+    "main.18076b6c.js.map": "/platzi-react-todo/static/js/main.18076b6c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b83c9205.css",
-    "static/js/main.a0c435e4.js"
+    "static/css/main.086ed929.css",
+    "static/js/main.18076b6c.js"
   ]
 }
